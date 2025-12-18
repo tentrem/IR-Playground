@@ -8,7 +8,7 @@ Panduan lengkap untuk menangani insiden keamanan siber menggunakan AI dan Workfl
 
 ### Apa itu Incident Response?
 
-**Incident Response** adalah proses menangani "kebakaran" di sistem komputer. Bayangkan seperti pemadam kebakaran:
+**Incident Response** adalah proses menangani insiden keamanan di sistem komputer. Bayangkan seperti pemadam kebakaran:
 
 1. Ada alarm (Detection) → Ada yang lapor "ada asap!"
 2. Cek lokasi (Triage) → Seberapa parah? Satu ruangan atau seluruh gedung?
